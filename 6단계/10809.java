@@ -8,7 +8,6 @@ public class Main{
             arr[i]=-1;
         for(int i=0; i<a.length(); i++){
             char c = a.charAt(i);
-            
             if(arr[c-'a']==-1)
                 arr[c-'a']=i;
         }
