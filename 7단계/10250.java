@@ -8,7 +8,6 @@ public class Main{
       int H = sc.nextInt();
       int W = sc.nextInt();
       int N = sc.nextInt();
-
       if(N%H == 0)
         guest[i] = (H*100)+(N/H);
       else
