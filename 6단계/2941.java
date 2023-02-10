@@ -14,6 +14,7 @@ public class Main{
                         i++;
                 }
             }
+		
             else if(ch == 'd') {
 				if(i < s.length() - 1) {
 					if(s.charAt(i + 1) == 'z') {
