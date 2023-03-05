@@ -4,7 +4,7 @@ public class Main{
         Scanner s = new Scanner(System.in);
         int N = s.nextInt();
         int X = s.nextInt();
-        int A[] = new int[N];
+        int A[] = new int[N]; //숫자 배열
         
         for(int i=0; i<N; i++){
             A[i] = s.nextInt();
