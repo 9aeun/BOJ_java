@@ -7,7 +7,7 @@ public class Main{
         int count=0;
         for(int i=0; i<10; i++){
             arr[i]=s.nextInt()%42;
-        }
+        }   
         
         for(int i=0; i<10; i++){
             b=false;
