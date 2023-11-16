@@ -5,11 +5,11 @@ public class Main{
         int A = input.nextInt();
         int B=input.nextInt();
         
-        System.out.println(A+B);
-        System.out.println(A-B);
-        System.out.println(A*B);
-        System.out.println(A/B);
-        System.out.println(A%B);
+        System.out.println(A+B); //plus
+        System.out.println(A-B); //minus
+        System.out.println(A*B); //multi
+        System.out.println(A/B); //div
+        System.out.println(A%B); 
         
     }
 }
